@@ -1,5 +1,7 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
+
+
 def combine(line: str):
     type_hint = line[0]
     value = line[2:]
